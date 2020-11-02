@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.exe
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.deps.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.dll
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\bin\Debug\netcoreapp3.1\conAsync.pdb
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.dll
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.pdb
+C:\Users\D.Hercules (HISCOX)\Source\Repos\conAsync\obj\Debug\netcoreapp3.1\conAsync.genruntimeconfig.cache
